@@ -2,16 +2,16 @@
 Overview
 This automated trading bot leverages Triangular and Exchange Arbitrages to identify and capitalize on arbitrage opportunities within the cryptocurrency market. The bot continuously scans for disparities in prices across various exchanges, executing trades to generate profits. The bot's versatility extends to multiple cryptocurrency pairs through straightforward configuration.
 
-#Commencing with an initial investment of $1000 in October 2017, the bot experienced periods of success, yielding around $40 per day for several weeks using Triangular Arbitrage on Bittrex. However, the escalating market volatility subsequently posed challenges, hindering the capacity to consistently surpass the impact of rapid price fluctuations.
+#Commencing with an initial investment of a Grand, the bot experienced periods of success, yielding around $40 per day for several weeks using Triangular Arbitrage on Bittrex. However, the escalating market volatility subsequently poses challenges, hindering the capacity to consistently surpass the impact of rapid price fluctuations.
 
 #Supported Exchanges
-The bot supports the following exchanges:
-
+The bot currently supports the following exchanges:
 Bittrex
 Bitfinex
 Bitstamp
 Kraken
 Gatecoin (Deprecated due to minimal trading volume)
+
 ##Installation
 If required, install Python 2 from https://www.python.org/downloads/.
 Execute pip install grequests.
